@@ -1,6 +1,6 @@
 # 📦 Estoque de Produtos - Desafio Técnico
 
-Sistema simples de gestão de estoque de produtos atendendo a demanda do desafio técnico, desenvolvido com React (Vite), Node.js (Express) e PostgreSQL.
+Sistema eficiente e intuitivo para gestão de estoque de produtos, desenvolvido para atender aos requisitos do desafio técnico. Utiliza React (Vite) no frontend, Node.js (Express) no backend e PostgreSQL como banco de dados, garantindo uma aplicação ágil, escalável e de fácil manutenção.
 
 ---
 
