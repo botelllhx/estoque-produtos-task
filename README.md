@@ -87,6 +87,15 @@ http://localhost:5173/
 
 ### Endpoints da API
 
+| Método | Rota | Rota |
+| --- | --- | --- |
+| `GET` | /produtos | Lista todos os produtos |
+| `POST` | /produtos | Adiciona um novo produto |
+| `PUT` | /produtos:id | Atualiza um produto existente |
+| `PATCH` | /produtos/:id/incrementar | Aumenta a quantidade do produto em 1 |
+| `PATCH` | /produtos/:id/decrementar | Diminui a quantidade do produto em 1 |
+| `DELETE` | /produtos:id | Remove um produto com quantidade 0 |
+
 - GET /produtos : Lista todos os produtos
 - POST /produtos : Adiciona um novo produto
 - PUT /produtos:id : Atualiza um produto existente
