@@ -85,7 +85,7 @@ http://localhost:5173/
 
 ---
 
-### Endpoints da API
+## Endpoints da API
 
 | Método | Rota | Descrição |
 | :--- | :--- | :--- |
