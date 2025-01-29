@@ -34,7 +34,7 @@ Instale as dependências:
 npm install
 ```
 
-Edite o arquivo .env e configure conforme o banco:
+Crie um arquivo .env na raíz do do bakcend e configure conforme o banco e espelhe as configuraçoes no arquivo /config/config.js:
 ```bash
 DB_NAME=estoque
 DB_USER=postgres
