@@ -20,7 +20,7 @@ Sistema eficiente e intuitivo para gestão de estoque de produtos, desenvolvido 
 2️⃣ **PostgreSQL** - Banco de dados para armazenar os produtos  
 🔗 [Download PostgreSQL](https://www.postgresql.org/download/)  
 
-📌 **Verifique se estão instalados corretamente executando:**  
+**Verifique se estão instalados corretamente executando:**  
 ```bash
 node -v   # Mostra a versão do Node.js
 npm -v    # Mostra a versão do npm
