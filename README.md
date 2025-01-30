@@ -12,7 +12,7 @@ Sistema eficiente e intuitivo para gestão de estoque de produtos, desenvolvido 
 
 ---
 
-## Antes de rodar a aplicação, certifique-se de que seu ambiente tem os seguintes requisitos instalados:  
+## Antes de rodar a aplicação, certifique se de que seu ambiente tem os seguintes requisitos instalados:  
 
 1️⃣ **Node.js (com npm)** - Para rodar o backend e frontend  
 🔗 [Download Node.js](https://nodejs.org/)  
@@ -22,9 +22,9 @@ Sistema eficiente e intuitivo para gestão de estoque de produtos, desenvolvido 
 
 📌 **Verifique se estão instalados corretamente executando:**  
 ```bash
-node -v   # Deve exibir a versão do Node.js
-npm -v    # Deve exibir a versão do npm
-psql -V   # Deve exibir a versão do PostgreSQL
+node -v   # Mostra a versão do Node.js
+npm -v    # Mostra a versão do npm
+psql -V   # Mostra a versão do PostgreSQL
 ```
 
 ---
